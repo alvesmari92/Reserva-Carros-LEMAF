@@ -17,10 +17,6 @@ public class Reserva {
 		cli = new Cliente(); // Inicializando o objeto 'cli'
 		loc = new Locadora(); // Inicializando o objeto 'loc'
 	}
-	
-	public void Teste() {
-		
-	}
 
 	// Métodos get e set
 	public double getValTotal() {
