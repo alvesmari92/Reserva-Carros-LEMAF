@@ -1,0 +1,30 @@
+Maria Luiza
+11111
+Sim
+Jose Luiz
+22222
+Não
+Mariana Silva
+33333
+Não
+Ronaldo Faria
+44444
+Sim
+Cristina Paiva
+55555
+Sim
+João Pereira
+66666
+Não
+Teresa Melo
+77777
+Não
+Sávio Souza
+88888
+Não
+Renato Couto
+99999
+Sim
+Alberto Ribeiro
+00000
+Sim
