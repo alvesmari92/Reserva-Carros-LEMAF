@@ -174,7 +174,6 @@ public class main {
 		try {
 			for (i = 0; i < arrayString.length; i++) {
 				data.add(format.parse(arrayString[i]));
-				System.out.println(data.get(i));
 			}
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
@@ -215,7 +214,6 @@ public class main {
 		try {
 			for (i = 0; i < arrayString.length; i++) {
 				data.add(format.parse(arrayString[i]));
-				System.out.println(data.get(i));
 			}
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
@@ -256,7 +254,6 @@ public class main {
 		try {
 			for (i = 0; i < arrayString.length; i++) {
 				data.add(format.parse(arrayString[i]));
-				System.out.println(data.get(i));
 			}
 		} catch (ParseException e) {
 			// TODO Auto-generated catch block
